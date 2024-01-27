@@ -1,2 +1,2 @@
 # ml-project-template
-ML project template with utilities to accelerate model development.
+ML project template with utilities to accelerate ML models development.

@@ -1,0 +1,27 @@
+# Development tools
+jupyterlab
+notebook
+
+# Data loading
+datasets
+
+# Data operation and analysis tools
+numpy
+pandas
+matplotlib
+
+# Models and training utilities
+scikit-learn
+# lightgbm
+catboost
+xgboost
+netcal
+spacy
+torch
+lightning
+transformers
+
+# Utilities
+python-dotenv
+tqdm
+black
